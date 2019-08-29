@@ -21,7 +21,7 @@ cd crawler-node
 npm install
 ```
 
-4 - Execute o comando abaixo para buscar a "resposta":
+4 - Execute o comando abaixo para buscar a resposta:
 ```bash
 npm start
 ```
