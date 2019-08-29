@@ -1,0 +1,20 @@
+{
+  "name": "crawler-node",
+  "version": "1.0.0",
+  "description": "Crawly Test - Crawler using node.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Eduardo Soares",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Edumatsu/crawler-node.git"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
