@@ -12,6 +12,9 @@ git clone https://github.com/Edumatsu/crawler-node.git
 ```
 
 2 - Acesse a pasta do repositório no seu computador:
+```bash
+cd crawler-node
+```
 
 3 - Instale as dependências:
 ```bash
