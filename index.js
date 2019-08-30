@@ -1,6 +1,6 @@
 const crawler = require('./src/crawler');
 
-;(async () => {
+(async () => {
   crawler.getToken()
   .then(token => crawler.getAnswer(token))
   .then(answer => console.log('Resposta: ' + answer))
